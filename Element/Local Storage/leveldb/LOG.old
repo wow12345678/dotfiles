@@ -1,0 +1,9 @@
+2024/04/04-18:36:44.200 17b36 Reusing MANIFEST /home/fw/.config/Element/Local Storage/leveldb/MANIFEST-000001
+2024/04/04-18:36:44.212 17b36 Recovering log #194
+2024/04/04-18:36:44.215 17b36 Reusing old log /home/fw/.config/Element/Local Storage/leveldb/000194.log 
+2024/04/04-18:38:44.597 17b37 Level-0 table #198: started
+2024/04/04-18:38:44.607 17b37 Level-0 table #198: 8991 bytes OK
+2024/04/04-18:38:44.616 17b37 Delete type=0 #194
+2024/04/05-01:05:44.628 17b37 Level-0 table #200: started
+2024/04/05-01:05:44.631 17b37 Level-0 table #200: 8503 bytes OK
+2024/04/05-01:05:44.633 17b37 Delete type=0 #197

@@ -1,0 +1,3 @@
+connect.dial_devices="[{\"address\":\"192.168.79.216\",\"app_state\":\"INSTALLED\",\"created_timestamp\":1710093886,\"device_id\":\"e8d83bbb-9de9-4e5b-a82a-aef48f1020a6\",\"dial_location_url\":\"http://192.168.79.216:1944/\",\"display_name\":\"LG webOS TV LQ63006LA\",\"last_seen\":1710094305,\"manufacturer\":\"LG\",\"model_name\":\"32LQ63006LA\",\"product_cap\":\"\",\"public_ip\":\"79.246.105.7\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":50,\"mac\":\"805b65e77604\",\"port\":9,\"retries\":2400}}]"
+audio.play_bitrate_non_metered_migrated=true
+app.player.volume=23254

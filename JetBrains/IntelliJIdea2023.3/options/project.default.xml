@@ -1,0 +1,24 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+      <component name="TaskManager">
+        <task active="true" id="Default" summary="Default task">
+          <created>1704217144408</created>
+          <option name="number" value="Default" />
+          <option name="presentableId" value="Default" />
+          <updated>1704217144408</updated>
+          <workItem from="1704217147109" duration="2000" />
+        </task>
+        <servers />
+      </component>
+      <component name="TimeTrackingManager">
+        <option name="totallyTimeSpent" value="2000" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

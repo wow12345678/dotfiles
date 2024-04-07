@@ -1,0 +1,299 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">cHJpbnRsbg==</entry>
+        <entry encoding="base64">ZmFpbA==</entry>
+        <entry encoding="base64">TG9jYXRpb246IDE0</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">Mnc=</entry>
+        <entry encoding="base64">cQ==</entry>
+        <entry encoding="base64">ZSB0ZXN0LmphdmE=</entry>
+        <entry encoding="base64">dw==</entry>
+        <entry encoding="base64">YQ==</entry>
+        <entry encoding="base64">J2E=</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1">
+      <jump line="10" column="13" filename="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1/src/edu/kit/kastel/codefight/model/memory/Memory.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1/src/edu/kit/kastel/codefight/model/memory/State.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1/src/edu/kit/kastel/codefight/model/instructions/Instruction.java" />
+      <jump line="2" column="13" filename="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1/src/edu/kit/kastel/codefight/model/AI/ai.java" />
+      <jump line="13" column="12" filename="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1/src/edu/kit/kastel/codefight/command/QuitCommand.java" />
+      <jump line="13" column="12" filename="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1/src/edu/kit/kastel/codefight/command/PrintCommand.java" />
+      <jump line="11" column="12" filename="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1/src/edu/kit/kastel/codefight/command/CommandResultType.java" />
+      <jump line="14" column="13" filename="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1/src/edu/kit/kastel/codefight/command/CommandResult.java" />
+    </project>
+    <project id="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1gradle">
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1gradle/app/src/main/java/edu/kit/kastel/codefight/model/memory/Memory.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1gradle/app/src/main/java/edu/kit/kastel/codefight/model/memory/Memory.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1gradle/app/src/main/java/edu/kit/kastel/codefight/model/memory/Memory.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1gradle/app/src/main/java/edu/kit/kastel/codefight/model/memory/Memory.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1gradle/app/src/main/java/edu/kit/kastel/codefight/model/memory/Memory.java" />
+      <jump line="20" column="4" filename="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1gradle/app/src/main/java/edu/kit/kastel/codefight/model/memory/Memory.java" />
+      <jump line="25" column="0" filename="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1gradle/app/src/main/java/edu/kit/kastel/codefight/model/memory/Memory.java" />
+      <jump line="26" column="4" filename="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1gradle/app/src/main/java/edu/kit/kastel/codefight/model/memory/Memory.java" />
+      <jump line="51" column="0" filename="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1gradle/app/src/main/java/edu/kit/kastel/codefight/model/memory/Memory.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1gradle/app/src/main/java/edu/kit/kastel/codefight/model/memory/Memory.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1gradle/app/src/main/java/edu/kit/kastel/codefight/model/memory/Memory.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1gradle/app/src/main/java/edu/kit/kastel/codefight/model/memory/Memory.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1gradle/app/src/main/java/edu/kit/kastel/codefight/model/memory/Memory.java" />
+      <jump line="30" column="4" filename="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1gradle/app/src/main/java/edu/kit/kastel/codefight/model/memory/Memory.java" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1gradle/app/src/main/java/edu/kit/kastel/codefight/model/memory/Memory.java" />
+    </project>
+    <project id="$USER_HOME$/Documents/SudokuND">
+      <jump line="1" column="35" filename="$USER_HOME$/Documents/SudokuND/Main.java" />
+      <jump line="53" column="26" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="27" column="33" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="201" column="4" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="256" column="4" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="255" column="23" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="252" column="4" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="8" column="13" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="5" column="14" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="15" column="41" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="30" column="29" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="298" column="0" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="193" column="6" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="149" column="0" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="141" column="0" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="132" column="0" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="121" column="0" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="113" column="0" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="97" column="0" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="83" column="0" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="60" column="0" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="68" column="63" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="4" column="26" filename="$USER_HOME$/Documents/SudokuND/Main.java" />
+      <jump line="95" column="0" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="0" column="13" filename="$USER_HOME$/Documents/SudokuND/Main.java" />
+      <jump line="177" column="12" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="66" column="4" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="100" column="4" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="6" column="34" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="3" column="15" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="5" column="52" filename="$USER_HOME$/Documents/SudokuND/Main.java" />
+      <jump line="239" column="20" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="276" column="8" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="3" column="76" filename="$USER_HOME$/Documents/SudokuND/Main.java" />
+      <jump line="250" column="0" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="271" column="4" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="272" column="0" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="274" column="33" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="275" column="33" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="265" column="38" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="254" column="8" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="232" column="67" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="247" column="8" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="225" column="8" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="226" column="8" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="222" column="0" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="227" column="36" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="246" column="12" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="260" column="23" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="259" column="13" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="267" column="15" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="278" column="0" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="237" column="19" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="279" column="0" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="9" column="38" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="19" column="28" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="10" column="36" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="1" column="28" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="0" column="25" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="268" column="102" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="262" column="0" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="152" column="0" filename="$USER_HOME$/Documents/SudokuND/SudokuNDTest.java" />
+      <jump line="157" column="0" filename="$USER_HOME$/Documents/SudokuND/SudokuNDTest.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/SudokuND/SudokuNDTest.java" />
+      <jump line="12" column="8" filename="$USER_HOME$/Documents/SudokuND/SudokuNDTest.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/SudokuND/SudokuNDTest.java" />
+      <jump line="6" column="46" filename="$USER_HOME$/Documents/SudokuND/SudokuNDTest.java" />
+      <jump line="22" column="42" filename="$USER_HOME$/Documents/SudokuND/SudokuNDTest.java" />
+      <jump line="266" column="57" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="273" column="20" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="39" column="33" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="11" column="12" filename="$USER_HOME$/Documents/SudokuND/Main.java" />
+      <jump line="8" column="23" filename="$USER_HOME$/Documents/SudokuND/Main.java" />
+      <jump line="6" column="59" filename="$USER_HOME$/Documents/SudokuND/Main.java" />
+      <jump line="14" column="23" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="9" column="31" filename="$USER_HOME$/Documents/SudokuND/Main.java" />
+      <jump line="156" column="45" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="154" column="16" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="155" column="40" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="190" column="45" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="231" column="37" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="2" column="42" filename="$USER_HOME$/Documents/SudokuND/Main.java" />
+      <jump line="230" column="40" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="253" column="32" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="34" column="33" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="62" column="18" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="63" column="54" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="46" column="30" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="45" column="16" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="42" column="56" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="41" column="43" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="61" column="44" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="75" column="17" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="67" column="32" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="69" column="51" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="55" column="12" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="57" column="8" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+      <jump line="40" column="39" filename="$USER_HOME$/Documents/SudokuND/SudokuND.java" />
+    </project>
+    <project id="$APPLICATION_CONFIG_DIR$/thinProject">
+      <jump line="163" column="12" filename="/home/albert/Dokumente/StudiumKIT/ProgrammierenAbgabe/SudokuND/SudokuND.java" />
+      <jump line="147" column="28" filename="/home/albert/Dokumente/StudiumKIT/ProgrammierenAbgabe/SudokuND/SudokuND.java" />
+      <jump line="136" column="8" filename="/home/albert/Dokumente/StudiumKIT/ProgrammierenAbgabe/SudokuND/SudokuND.java" />
+      <jump line="154" column="28" filename="/home/albert/Dokumente/StudiumKIT/ProgrammierenAbgabe/SudokuND/SudokuND.java" />
+      <jump line="155" column="46" filename="/home/albert/Dokumente/StudiumKIT/ProgrammierenAbgabe/SudokuND/SudokuND.java" />
+      <jump line="159" column="24" filename="/home/albert/Dokumente/StudiumKIT/ProgrammierenAbgabe/SudokuND/SudokuND.java" />
+      <jump line="165" column="12" filename="/home/albert/Dokumente/StudiumKIT/ProgrammierenAbgabe/SudokuND/SudokuND.java" />
+      <jump line="264" column="8" filename="/home/albert/Dokumente/StudiumKIT/ProgrammierenAbgabe/SudokuND/SudokuND.java" />
+      <jump line="0" column="0" filename="/home/albert/Dokumente/StudiumKIT/ProgrammierenAbgabe/SudokuND/Main.java" />
+      <jump line="287" column="4" filename="/home/albert/Dokumente/StudiumKIT/ProgrammierenAbgabe/SudokuND/SudokuND.java" />
+      <jump line="3" column="23" filename="/home/albert/Dokumente/StudiumKIT/ProgrammierenAbgabe/SudokuND/Main.java" />
+      <jump line="283" column="9" filename="/home/albert/Dokumente/StudiumKIT/ProgrammierenAbgabe/SudokuND/SudokuND.java" />
+      <jump line="153" column="71" filename="/home/albert/Dokumente/StudiumKIT/ProgrammierenAbgabe/SudokuND/SudokuND.java" />
+      <jump line="149" column="47" filename="/home/albert/Dokumente/StudiumKIT/ProgrammierenAbgabe/SudokuND/SudokuND.java" />
+      <jump line="113" column="37" filename="/home/albert/Dokumente/StudiumKIT/ProgrammierenAbgabe/SudokuND/SudokuND.java" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="/Dummy.txt" timestamp="1710530916030">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1/src/edu/kit/kastel/codefight/command/QuitCommand.java" timestamp="1709922707943">
+        <mark key="&quot;" line="13" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1/src/edu/kit/kastel/codefight/model/memory/Memory.java" timestamp="1709922707971">
+        <mark key="&quot;" line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1/src/edu/kit/kastel/codefight/command/PrintCommand.java" timestamp="1709922707949">
+        <mark key="&quot;" line="13" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1gradle/app/src/main/java/edu/kit/kastel/codefight/model/memory/Memory.java" timestamp="1710526794664">
+        <mark key="&quot;" line="60" column="0" />
+        <mark key="'" line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1/src/edu/kit/kastel/codefight/model/AI/ai.java" timestamp="1709922707938">
+        <mark key="&quot;" line="2" column="13" />
+      </file>
+      <file name="/" timestamp="1711123344523">
+        <mark key="&quot;" line="0" column="10" />
+      </file>
+      <file name="/home/albert/Dokumente/StudiumKIT/ProgrammierenAbgabe/SudokuND/SudokuND.java" timestamp="1711129796719">
+        <mark key="a" line="213" column="16" />
+        <mark key="&quot;" line="113" column="37" />
+        <mark key="'" line="136" column="8" />
+        <mark key="[" line="149" column="48" />
+        <mark key="]" line="149" column="47" />
+        <mark key="." line="149" column="46" />
+        <mark key="^" line="149" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1/src/edu/kit/kastel/codefight/command/CommandResult.java" timestamp="1709922707957">
+        <mark key="&quot;" line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1/src/edu/kit/kastel/codefight/model/instructions/Instruction.java" timestamp="1709922707975">
+        <mark key="&quot;" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1/src/edu/kit/kastel/codefight/command/CommandHandler.java" timestamp="1709922707963">
+        <mark key="&quot;" line="13" column="19" />
+      </file>
+      <file name="/usr/lib/jvm/java-21-openjdk!/java.base/java/lang/IndexOutOfBoundsException.class" timestamp="1711120406481">
+        <mark key="&quot;" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/SudokuND/SudokuND.java" timestamp="1711123935127">
+        <mark key="'" line="230" column="40" />
+        <mark key="[" line="45" column="93" />
+        <mark key="]" line="45" column="93" />
+        <mark key="." line="45" column="93" />
+        <mark key="^" line="45" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1/src/edu/kit/kastel/codefight/command/CommandResultType.java" timestamp="1709922707953">
+        <mark key="&quot;" line="11" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/SudokuND/Main.java" timestamp="1711123924288">
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="2" column="42" />
+        <mark key="^" line="12" column="40" />
+        <mark key="." line="2" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/SudokuND/SudokuNDTest.java" timestamp="1711122067203">
+        <mark key="&quot;" line="27" column="0" />
+        <mark key="'" line="156" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="156" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1/src/edu/kit/kastel/codefight/Main.java" timestamp="1709861763544">
+        <mark key="&quot;" line="4" column="0" />
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="9" column="32" />
+        <mark key="." line="9" column="31" />
+        <mark key="^" line="9" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/abschlussaufgaben/abschlussaufgabe1/src/edu/kit/kastel/codefight/model/memory/State.java" timestamp="1709922707926">
+        <mark key="&quot;" line="12" column="0" />
+      </file>
+      <file name="/home/albert/Dokumente/StudiumKIT/ProgrammierenAbgabe/SudokuND/Main.java" timestamp="1711129796834">
+        <mark key="&quot;" line="3" column="24" />
+      </file>
+      <file name="/fragment.java" timestamp="1711120352641">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJlc3Npbmc9dHJ1ZTsK</text>
+      </register>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJlc3Npbmc9dHJ1ZTsK</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">YGBgamF2YQo=</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwCg==</text>
+      </register>
+      <register name="4" type="CHARACTER_WISE">
+        <text encoding="base64">OwppbXBvcnQgamF2YS51dGlsLkxpbmtlZExpc3Q7CgpjbGFzcyBTdWRva3VORCB7CiAgICBpbnQgZGltZW5zaW9uOwogICAgaW50IHZvbHVtZTsKICAgIExpbmtlZExpc3Q8SW50ZWdlcj4gdmFsdWVSYW5nZTsKICAgIExpbmtlZExpc3Q8SW50ZWdlcj4gbGVmdEZpZWxkczsKICAgIExpbmtlZExpc3Q8SW50ZWdlcj4gcHJlc3Npbmc7CiAgICBIYXNoTWFwPEludGVnZXIsIEludGVnZXI+IHNvbHV0aW9uOwogICAgSGFzaE1hcDxJbnRlZ2VyLCBJbnRlZ2VyPiBwdXp6bGU7CgogICAgU3Vkb2t1TkQoaW50IGRpbWVuc2lvbiwgaW50IHZvbHVtZSkgewogICAgICAgIHRoaXMuaW5pdGlhbGl6ZShkaW1lbnNpb24sIHZvbHVtZSk7CiAgICAgICAgdGhpcy5nZW5lcmF0ZSgpOwogICAgfQoKICAgIHZvaWQgaW5pdGlhbGl6ZShpbnQgZGltZW5zaW9uLCBpbnQgdm9sdW1lKSB7CiAgICAgICAgdGhpcy5kaW1lbnNpb24gPSBkaW1lbnNpb247CiAgICAgICAgdGhpcy52b2x1bWUgPSB2b2x1bWU7CiAgICAgICAgdGhpcy52YWx1ZVJhbmdlID0gbmV3IExpbmtlZExpc3Q8PigpOwogICAgICAgIGZvciAoaW50IGEgPSAwOyBhIDwgTWF0aC5wb3codGhpcy52b2x1bWUsIHRoaXMuZGltZW5zaW9uKTsgYSsrKSB7CiAgICAgICAgICAgIHRoaXMudmFsdWVSYW5nZS5hZGQoYSk7CiAgICAgICAgfQogICAgICAgIHRoaXMubGVmdEZpZWxkcyA9IG5ldyBMaW5rZWRMaXN0PD4oKTsKICAgICAgICBmb3IgKGludCBhID0gMDsgYSA8IE1hdGgucG93KHRoaXMudm9sdW1lLCB0aGlzLmRpbWVuc2lvbiAqIHRoaXMuZGltZW5zaW9uKTsgYSsrKSB7CiAgICAgICAgICAgIHRoaXMubGVmdEZpZWxkcy5hZGQoYSk7CiAgICAgICAgfQogICAgICAgIHRoaXMucHJlc3NpbmcgPSBuZXcgTGlua2VkTGlzdDw+KCk7CiAgICAgICAgdGhpcy5zb2x1dGlvbiA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICB0aGlzLnB1enpsZSA9IG5ldyBIYXNoTWFwPD4oKTsKICAgIH0KCiAgICB2b2lkIHNldEZpZWxkKGludCBmaWVsZCwgaW50IHZhbHVlKSB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJdb1siKTsKICAgICAgICB0aGlzLnNlY3VyZUZpZWxkKGZpZWxkLCB2YWx1ZSk7CiAgICAgICAgdGhpcy5wdXp6bGUucHV0KGZpZWxkLCB2YWx1ZSk7CiAgICB9CgogICAgdm9pZCBzZWN1cmVGaWVsZChpbnQgZmllbGQsIGludCB2YWx1ZSkgewogICAgICAgIHRoaXMuc29sdXRpb24ucHV0KGZpZWxkLCB2YWx1ZSk7CiAgICAgICAgaWYgKHRoaXMucHJlc3NpbmcuY29udGFpbnMoZmllbGQpKSB7CiAgICAgICAgICAgIHRoaXMucHJlc3NpbmcucmVtb3ZlKG5ldyBJbnRlZ2VyKGZpZWxkKSk7CiAgICAgICAgfQogICAgICAgIHRoaXMubGVmdEZpZWxkcy5yZW1vdmUobmV3IEludGVnZXIoZmllbGQpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZmllbGQgKyAiLCIgKyB2YWx1ZSArICIsIiArIHRoaXMubGVmdEZpZWxkcyk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRoaXMucHJlc3NpbmcpOwogICAgICAgIGZvciAoaW50IGEgPSAwOyBhIDwgTWF0aC5wb3codGhpcy52b2x1bWUsIHRoaXMuZGltZW5zaW9uKTsgYSsrKSB7CiAgICAgICAgICAgIFN0cmluZyBsaW5lID0gIiI7CiAgICAgICAgICAgIGZvciAoaW50IGIgPSAwOyBiIDwgTWF0aC5wb3codGhpcy52b2x1bWUsIHRoaXMuZGltZW5zaW9uKTsgYisrKSB7CiAgICAgICAgICAgICAgICBpZiAodGhpcy5zb2x1dGlvbi5jb250YWluc0tleShhICogKGludCkgTWF0aC5wb3codGhpcy52b2x1bWUsIHRoaXMuZGltZW5zaW9uKSArIGIpKSB7CiAgICAgICAgICAgICAgICAgICAgbGluZSA9IGxpbmUgKyAiWyIgKyB0aGlzLnNvbHV0aW9uLmdldChhICogKGludCkgTWF0aC5wb3codGhpcy52b2x1bWUsIHRoaXMuZGltZW5zaW9uKSArIGIpICsgIl0iOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBsaW5lID0gbGluZSArICJbIF0iOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihsaW5lKTsKICAgICAgICB9CiAgICAgICAgdGhpcy5zZWN1cmVEZXRlcm1pbmVkRmllbGRzKGZpZWxkKTsKICAgIH0KCiAgICBMaW5rZWRMaXN0PEludGVnZXI+IGdldEJsb2NrKGludCBmaWVsZCkgewogICAgICAgIGludCBmaWVsZERpZkJsb2NrID0gZmllbGQ7CiAgICAgICAgTGlua2VkTGlzdDxJbnRlZ2VyPiBibG9jayA9IG5ldyBMaW5rZWRMaXN0PD4oKTsKICAgICAgICBmb3IgKGludCBhID0gMDsgYSA8IHRoaXMuZGltZW5zaW9uOyBhKyspIHsKICAgICAgICAgICAgZmllbGREaWZCbG9jayAtPSAoaW50KSAoKGZpZWxkICUgKHRoaXMudm9sdW1lICogTWF0aC5wb3codGhpcy52b2x1bWUsIHRoaXMuZGltZW5zaW9uICogKGEpKSkpIC8gTWF0aC5wb3codGhpcy52b2x1bWUsIHRoaXMuZGltZW5zaW9uICogYSkpICogKGludCkgTWF0aC5wb3codGhpcy52b2x1bWUsIHRoaXMuZGltZW5zaW9uICogYSk7CiAgICAgICAgfQogICAgICAgIGJsb2NrLmFkZChmaWVsZERpZkJsb2NrKTsKICAgICAgICBmb3IgKGludCBhID0gMDsgYSA8IHRoaXMuZGltZW5zaW9uOyBhKyspIHsKICAgICAgICAgICAgZm9yIChpbnQgYiA9IGJsb2NrLnNpemUoKTsgYiA+IDA7IGItLSkgewogICAgICAgICAgICAgICAgZm9yIChpbnQgYyA9IDE7IGMgPCB0aGlzLnZvbHVtZTsgYysrKSB7CiAgICAgICAgICAgICAgICAgICAgYmxvY2suYWRkKGJsb2NrLmdldChiIC0gMSkgKyBjICogKGludCkgTWF0aC5wb3codGhpcy52b2x1bWUsIHRoaXMuZGltZW5zaW9uICogYSkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBibG9jazsKICAgIH0KCiAgICBMaW5rZWRMaXN0PEludGVnZXI+IGdldFJvdyhpbnQgZmllbGQsIGludCBkaXJlY3Rpb24pIHsKICAgICAgICBpbnQgZmllbGREaWZSb3cgPSBmaWVsZCAtIChpbnQpICgoZmllbGQgJSBNYXRoLnBvdyh0aGlzLnZvbHVtZSwgdGhpcy5kaW1lbnNpb24gKiAoZGlyZWN0aW9uICsgMSkpKSAvIE1hdGgucG93KHRoaXMudm9sdW1lLCB0aGlzLmRpbWVuc2lvbiAqIGRpcmVjdGlvbikpICogKGludCkgTWF0aC5wb3codGhpcy52b2x1bWUsIHRoaXMuZGltZW5zaW9uICogZGlyZWN0aW9uKTsKICAgICAgICBMaW5rZWRMaXN0PEludGVnZXI+IHJvdyA9IG5ldyBMaW5rZWRMaXN0PD4oKTsKICAgICAgICBmb3IgKGludCBhID0gMDsgYSA8IE1hdGgucG93KHRoaXMudm9sdW1lLCB0aGlzLmRpbWVuc2lvbik7IGErKykgewogICAgICAgICAgICByb3cuYWRkKGZpZWxkRGlmUm93ICsgYSAqIChpbnQpIE1hdGgucG93KHRoaXMudm9sdW1lLCB0aGlzLmRpbWVuc2lvbiAqIGRpcmVjdGlvbikpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcm93OwogICAgfQoKICAgIExpbmtlZExpc3Q8SW50ZWdlcj4gdW5pdGUoTGlua2VkTGlzdDxJbnRlZ2VyPiBsaXN0MSwgTGlua2VkTGlzdDxJbnRlZ2VyPiBsaXN0MikgewogICAgICAgIExpbmtlZExpc3Q8SW50ZWdlcj4gbGlzdCA9IG5ldyBMaW5rZWRMaXN0PD4oKTsKICAgICAgICBmb3IgKGludCBhID0gMDsgYSA8IGxpc3QxLnNpemUoKTsgYSsrKSB7CiAgICAgICAgICAgIGlmICghbGlzdC5jb250YWlucyhsaXN0MS5nZXQoYSkpKSB7CiAgICAgICAgICAgICAgICBsaXN0LmFkZChsaXN0MS5nZXQoYSkpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGZvciAoaW50IGEgPSAwOyBhIDwgbGlzdDIuc2l6ZSgpOyBhKyspIHsKICAgICAgICAgICAgaWYgKCFsaXN0LmNvbnRhaW5zKGxpc3QyLmdldChhKSkpIHsKICAgICAgICAgICAgICAgIGxpc3QuYWRkKGxpc3QyLmdldChhKSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIGxpc3Q7CiAgICB9CgogICAgTGlua2VkTGlzdDxJbnRlZ2VyPiBnZXRSZWxldmFudEZpZWxkcyhpbnQgZmllbGQpIHsKICAgICAgICBMaW5rZWRMaXN0PEludGVnZXI+IHJlbGV2YW50RmllbGRzID0gdGhpcy5nZXRCbG9jayhmaWVsZCk7CiAgICAgICAgZm9yIChpbnQgYSA9IDA7IGEgPCB0aGlzLmRpbWVuc2lvbjsgYSsrKSB7CiAgICAgICAgICAgIHJlbGV2YW50RmllbGRzID0gdGhpcy51bml0ZShyZWxldmFudEZpZWxkcywgdGhpcy5nZXRSb3coZmllbGQsIGEpKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHJlbGV2YW50RmllbGRzOwogICAgfQoKICAgIExpbmtlZExpc3Q8SW50ZWdlcj4gZ2V0QmxvY2tlZFZhbHVlcyhpbnQgZmllbGQpIHsKICAgICAgICBMaW5rZWRMaXN0PEludGVnZXI+IHJlbGV2YW50RmllbGRzID0gdGhpcy5nZXRSZWxldmFudEZpZWxkcyhmaWVsZCk7CiAgICAgICAgTGlua2VkTGlzdDxJbnRlZ2VyPiBibG9ja2VkVmFsdWVzID0gbmV3IExpbmtlZExpc3Q8PigpOwogICAgICAgIGZvciAoaW50IGEgPSAwOyBhIDwgcmVsZXZhbnRGaWVsZHMuc2l6ZSgpOyBhKyspIHsKICAgICAgICAgICAgaWYgKHRoaXMuc29sdXRpb24uY29udGFpbnNLZXkocmVsZXZhbnRGaWVsZHMuZ2V0KGEpKSkgewogICAgICAgICAgICAgICAgYmxvY2tlZFZhbHVlcy5hZGQoc29sdXRpb24uZ2V0KHJlbGV2YW50RmllbGRzLmdldChhKSkpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBibG9ja2VkVmFsdWVzOwogICAgfQoKICAgIExpbmtlZExpc3Q8SW50ZWdlcj4gd2l0aG91dChMaW5rZWRMaXN0PEludGVnZXI+IGxpc3QxLCBMaW5rZWRMaXN0PEludGVnZXI+IGxpc3QyKSB7CiAgICAgICAgTGlua2VkTGlzdDxJbnRlZ2VyPiBsaXN0ID0gbmV3IExpbmtlZExpc3Q8PihsaXN0MSk7CiAgICAgICAgZm9yIChpbnQgYSA9IDA7IGEgPCBsaXN0Mi5zaXplKCk7IGErKykgewogICAgICAgICAgICBsaXN0LnJlbW92ZShsaXN0Mi5nZXQoYSkpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gbGlzdDsKICAgIH0KCiAgICBMaW5rZWRMaXN0PEludGVnZXI+IGdldExlZnRWYWx1ZXMoaW50IGZpZWxkKSB7CiAgICAgICAgTGlua2VkTGlzdDxJbnRlZ2VyPiBsZWZ0VmFsdWVzID0gbmV3IExpbmtlZExpc3Q8PigpOwogICAgICAgIGlmICghdGhpcy5zb2x1dGlvbi5jb250YWluc0tleShmaWVsZCkpIHsKICAgICAgICAgICAgbGVmdFZhbHVlcyA9IHdpdGhvdXQodGhpcy52YWx1ZVJhbmdlLCB0aGlzLmdldEJsb2NrZWRWYWx1ZXMoZmllbGQpKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGxlZnRWYWx1ZXM7CiAgICB9CgogICAgYm9vbGVhbiBzZWN1cmVPYnZpb3VzRmllbGRzQmxvY2soKSB7CiAgICAgICAgYm9vbGVhbiBoaXQgPSBmYWxzZTsKICAgICAgICBpbnQgY3VycmVudEZpZWxkOwogICAgICAgIExpbmtlZExpc3Q8SW50ZWdlcj4gYmxvY2sgPSBnZXRCbG9jaygwKTsKICAgICAgICBMaW5rZWRMaXN0PEludGVnZXI+IGFuY2hvcnMgPSBuZXcgTGlua2VkTGlzdDw+KCk7CiAgICAgICAgTGlua2VkTGlzdDxJbnRlZ2VyPiBmaWVsZHM7CiAgICAgICAgZm9yIChpbnQgYSA9IDA7IGEgPCBibG9jay5zaXplKCk7IGErKykgewogICAgICAgICAgICBhbmNob3JzLmFkZChibG9jay5nZXQoYSkgKiAzKTsKICAgICAgICB9CiAgICAgICAgZm9yIChpbnQgYSA9IDA7IGEgPCB0aGlzLnZhbHVlUmFuZ2Uuc2l6ZSgpOyBhKyspIHsKICAgICAgICAgICAgZm9yIChpbnQgYiA9IDA7IGIgPCBhbmNob3JzLnNpemUoKTsgYisrKSB7CiAgICAgICAgICAgICAgICBmaWVsZHMgPSBuZXcgTGlua2VkTGlzdDw+KCk7CiAgICAgICAgICAgICAgICBmb3IgKGludCBjID0gMDsgYyA8IGJsb2NrLnNpemUoKTsgYysrKSB7CiAgICAgICAgICAgICAgICAgICAgY3VycmVudEZpZWxkID0gYW5jaG9ycy5nZXQoYikgKyBibG9jay5nZXQoYyk7CiAgICAgICAgICAgICAgICAgICAgaWYgKHRoaXMuZ2V0TGVmdFZhbHVlcyhjdXJyZW50RmllbGQpLmNvbnRhaW5zKGEpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGZpZWxkcy5hZGQoY3VycmVudEZpZWxkKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAoZmllbGRzLnNpemUoKSA9PSAxKSB7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJdK1siKTsKICAgICAgICAgICAgICAgICAgICB0aGlzLnNlY3VyZUZpZWxkKGZpZWxkcy5nZXQoMCksIGEpOwogICAgICAgICAgICAgICAgICAgIGhpdCA9IHRydWU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIGhpdDsKICAgIH0KCiAgICBib29sZWFuIHNlY3VyZU9idmlvdXNGaWVsZHNSb3coKSB7CiAgICAgICAgYm9vbGVhbiBoaXQgPSBmYWxzZTsKICAgICAgICBMaW5rZWRMaXN0PEludGVnZXI+IGFyZWE7CiAgICAgICAgTGlua2VkTGlzdDxJbnRlZ2VyPiByb3c7CiAgICAgICAgTGlua2VkTGlzdDxJbnRlZ2VyPiBmaWVsZHM7CiAgICAgICAgZm9yIChpbnQgYSA9IDA7IGEgPCB0aGlzLmRpbWVuc2lvbjsgYSsrKSB7CiAgICAgICAgICAgIGFyZWEgPSBuZXcgTGlua2VkTGlzdDw+KCk7CiAgICAgICAgICAgIGFyZWEuYWRkKDApOwogICAgICAgICAgICBmb3IgKGludCBiID0gMDsgYiA8IHRoaXMuZGltZW5zaW9uOyBiKyspIHsKICAgICAgICAgICAgICAgIGlmIChiICE9IGEpIHsKICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBjID0gYXJlYS5zaXplKCk7IGMgPiAwOyBjLS0pIHsKICAgICAgICAgICAgICAgICAgICAgICAgYXJlYSA9IHRoaXMudW5pdGUoYXJlYSwgdGhpcy5nZXRSb3coYXJlYS5nZXQoYyAtIDEpLCBiKSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIGZvciAoaW50IGIgPSAwOyBiIDwgYXJlYS5zaXplKCk7IGIrKykgewogICAgICAgICAgICAgICAgcm93ID0gdGhpcy5nZXRSb3coYXJlYS5nZXQoYiksIGEpOwogICAgICAgICAgICAgICAgZm9yIChpbnQgYyA9IDA7IGMgPCB2YWx1ZVJhbmdlLnNpemUoKTsgYysrKSB7CiAgICAgICAgICAgICAgICAgICAgZmllbGRzID0gbmV3IExpbmtlZExpc3Q8PigpOwogICAgICAgICAgICAgICAgICAgIGZvciAoaW50IGQgPSAwOyBkIDwgcm93LnNpemUoKTsgZCsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmICh0aGlzLmdldExlZnRWYWx1ZXMocm93LmdldChkKSkuY29udGFpbnMoYykpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpZWxkcy5hZGQocm93LmdldChkKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgaWYgKGZpZWxkcy5zaXplKCkgPT0gMSkgewogICAgICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIl0rWyIpOwogICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnNlY3VyZUZpZWxkKGZpZWxkcy5nZXQoMCksIGMpOwogICAgICAgICAgICAgICAgICAgICAgICBoaXQgPSB0cnVlOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gaGl0OwogICAgfQoKICAgIGJvb2xlYW4gc2VjdXJlT2J2aW91c0ZpZWxkcygpIHsKICAgICAgICByZXR1cm4gKHRoaXMuc2VjdXJlT2J2aW91c0ZpZWxkc0Jsb2NrKCkgfHwgdGhpcy5zZWN1cmVPYnZpb3VzRmllbGRzUm93KCkpOwogICAgfQoKICAgIExpbmtlZExpc3Q8SW50ZWdlcj4gaW50ZXJzZWN0aW9uKExpbmtlZExpc3Q8SW50ZWdlcj4gbGlzdDEsIExpbmtlZExpc3Q8SW50ZWdlcj4gbGlzdDIpIHsKICAgICAgICBMaW5rZWRMaXN0PEludGVnZXI+IGxpc3QgPSBuZXcgTGlua2VkTGlzdDw+KCk7CiAgICAgICAgZm9yIChpbnQgYSA9IGxpc3QxLnNpemUoKTsgYSA+IDA7IGEtLSkgewogICAgICAgICAgICBpZiAobGlzdDIuY29udGFpbnMobGlzdDEuZ2V0KGEgLSAxKSkpIHsKICAgICAgICAgICAgICAgIGxpc3QuYWRkKGxpc3QxLmdldChhIC0gMSkpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBsaXN0OwogICAgfQoKICAgIExpbmtlZExpc3Q8SW50ZWdlcj4gdW5zb2x2ZWQoTGlua2VkTGlzdDxJbnRlZ2VyPiBsaXN0KSB7CiAgICAgICAgZm9yIChpbnQgYSA9IGxpc3Quc2l6ZSgpOyBhID4gMDsgYS0tKSB7CiAgICAgICAgICAgIGlmICh0aGlzLnNvbHV0aW9uLmNvbnRhaW5zS2V5KGxpc3QuZ2V0KGEgLSAxKSkpIHsKICAgICAgICAgICAgICAgIGxpc3QucmVtb3ZlKGEgLSAxKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gbGlzdDsKICAgIH0KCiAgICB2b2lkIHNlY3VyZURldGVybWluZWRGaWVsZHMoaW50IGZpZWxkKSB7CiAgICAgICAgTGlua2VkTGlzdDxJbnRlZ2VyPiByZWxldmFudEZpZWxkcyA9IHRoaXMudW5zb2x2ZWQodGhpcy5nZXRSZWxldmFudEZpZWxkcyhmaWVsZCkpOwogICAgICAgIExpbmtlZExpc3Q8SW50ZWdlcj4gbGVmdEZpZWxkczsKICAgICAgICBMaW5rZWRMaXN0PEludGVnZXI+IGN1cnJlbnRseVJlbGV2YW50RmllbGRzOwogICAgICAgIExpbmtlZExpc3Q8SW50ZWdlcj4gY3VycmVudGx5TGVmdEZpZWxkczsKICAgICAgICBmb3IgKEludGVnZXIgcmVsZXZhbnRGaWVsZCA6IHJlbGV2YW50RmllbGRzKSB7CiAgICAgICAgICAgIGxlZnRGaWVsZHMgPSB0aGlzLmdldExlZnRWYWx1ZXMocmVsZXZhbnRGaWVsZCk7CiAgICAgICAgICAgIGlmIChsZWZ0RmllbGRzLnNpemUoKSA9PSAxKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIl0tWyIpOwogICAgICAgICAgICAgICAgdGhpcy5zZWN1cmVGaWVsZChyZWxldmFudEZpZWxkLCBsZWZ0RmllbGRzLmdldEZpcnN0KCkpOwogICAgICAgICAgICB9IGVsc2UgaWYgKGxlZnRGaWVsZHMuc2l6ZSgpIDw9IHRoaXMudm9sdW1lKSB7CiAgICAgICAgICAgICAgICBmb3IgKGludCBiID0gMDsgYiA8IHRoaXMuZGltZW5zaW9uOyBiKyspIHsKICAgICAgICAgICAgICAgICAgICBjdXJyZW50bHlSZWxldmFudEZpZWxkcyA9IHRoaXMudW5zb2x2ZWQodGhpcy5pbnRlcnNlY3Rpb24odGhpcy5nZXRCbG9jayhyZWxldmFudEZpZWxkKSwgdGhpcy5nZXRSb3cocmVsZXZhbnRGaWVsZCwgYikpKTsKICAgICAgICAgICAgICAgICAgICBjdXJyZW50bHlMZWZ0RmllbGRzID0gbmV3IExpbmtlZExpc3Q8PigpOwogICAgICAgICAgICAgICAgICAgIGZvciAoSW50ZWdlciBjdXJyZW50bHlSZWxldmFudEZpZWxkIDogY3VycmVudGx5UmVsZXZhbnRGaWVsZHMpIHsKICAgICAgICAgICAgICAgICAgICAgICAgY3VycmVudGx5TGVmdEZpZWxkcyA9IHRoaXMudW5pdGUoY3VycmVudGx5TGVmdEZpZWxkcywgdGhpcy5nZXRMZWZ0VmFsdWVzKGN1cnJlbnRseVJlbGV2YW50RmllbGQpKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgaWYgKCFjdXJyZW50bHlMZWZ0RmllbGRzLmlzRW1wdHkoKSAmJiBjdXJyZW50bHlSZWxldmFudEZpZWxkcy5zaXplKCkgPT0gY3VycmVudGx5TGVmdEZpZWxkcy5zaXplKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCF0aGlzLnByZXNzaW5nLmNvbnRhaW5zKHJlbGV2YW50RmllbGQpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnByZXNzaW5nLmFkZChyZWxldmFudEZpZWxkKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICB9CgogICAgaW50IGdldFZhbHVlKGludCBmaWVsZCkgewogICAgICAgIGlmICh0aGlzLmdldExlZnRWYWx1ZXMoZmllbGQpLmlzRW1wdHkoKSkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImZhaWwgIiArIGZpZWxkKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRoaXMuZ2V0TGVmdFZhbHVlcyhmaWVsZCkuZ2V0KChpbnQpIE1hdGguY2VpbChNYXRoLnJhbmRvbSgpICogKHRoaXMuZ2V0TGVmdFZhbHVlcyhmaWVsZCkuc2l6ZSgpIC0gMSkpKTsKICAgIH0KCiAgICB2b2lkIHB1dEZpZWxkKGludCBmaWVsZCkgewogICAgICAgIHRoaXMuc2V0RmllbGQoZmllbGQsIGdldFZhbHVlKGZpZWxkKSk7CiAgICAgICAgd2hpbGUgKHNlY3VyZU9idmlvdXNGaWVsZHMoKSkgOwogICAgfQoKICAgIGludCBnZXRGaWVsZCgpIHsKICAgICAgICBpbnQgZmllbGQ7CiAgICAgICAgaWYgKCF0aGlzLnByZXNzaW5nLmlzRW1wdHkoKSkgewogICAgICAgICAgICBmaWVsZCA9IHRoaXMucHJlc3NpbmcuZ2V0KChpbnQpIE1hdGguY2VpbChNYXRoLnJhbmRvbSgpICogKHRoaXMucHJlc3Npbmcuc2l6ZSgpIC0gMSkpKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBmaWVsZCA9IHRoaXMubGVmdEZpZWxkcy5nZXQoKGludCkgTWF0aC5jZWlsKE1hdGgucmFuZG9tKCkgKiAodGhpcy5sZWZ0RmllbGRzLnNpemUoKSAtIDEpKSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBmaWVsZDsKICAgIH0KCiAgICB2b2lkIGdlbmVyYXRlKCkgewogICAgICAgIHdoaWxlICghdGhpcy5sZWZ0RmllbGRzLmlzRW1wdHkoKSkgewogICAgICAgICAgICB0aGlzLnB1dEZpZWxkKHRoaXMuZ2V0RmllbGQoKSk7CiAgICAgICAgfQogICAgfQp9Cg==</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">J2E=</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">bmV3IA==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="CHARACTER_WISE">
+        <text encoding="base64">TG9jYXRpb246IDE0</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

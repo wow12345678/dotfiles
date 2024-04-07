@@ -1,0 +1,13 @@
+  "modules-left": [
+    "custom/right-arrow-dark",
+    "hyprland/workspaces"
+  ],
+  "hyprland/workspaces": {
+    "format": "{name}",
+    "active-only": true,
+    "persistent-workspaces": {
+      "DP-1": ["1"], // workspace 1 shown on DP-1
+      "HDMI-A-1": ["2"], // workspace 2 shown on HDMI-A-1
+    }
+  },
+

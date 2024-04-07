@@ -1,0 +1,249 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="abschlussaufgabe1" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/edu/kit/kastel/CodeFight/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/kit/kastel/CodeFight/model/AI/ai.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="3" lastUsed="1708193825292" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/edu/kit/kastel/CodeFight/model/AI/ai.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="3" lastUsage="1708193825292" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="abschlussaufgabe1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abschlussaufgabe1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/.idea}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abschlussaufgabe1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abschlussaufgabe1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src/edu}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abschlussaufgabe1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src/edu}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src/edu/kit}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abschlussaufgabe1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src/edu}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src/edu/kit}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src/edu/kit/kastel}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abschlussaufgabe1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src/edu}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src/edu/kit}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src/edu/kit/kastel}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src/edu/kit/kastel/CodeFight}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abschlussaufgabe1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src/edu}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src/edu/kit}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src/edu/kit/kastel}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src/edu/kit/kastel/CodeFight}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src/edu/kit/kastel/CodeFight/model}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abschlussaufgabe1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src/edu}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src/edu/kit}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src/edu/kit/kastel}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src/edu/kit/kastel/CodeFight}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src/edu/kit/kastel/CodeFight/model}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/fw/Documents/abschlussaufgabe1/src/edu/kit/kastel/CodeFight/model/AI}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abschlussaufgabe1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.Unnamed" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local">
+        <shellCommand>
+          <arg value="/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="793000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32958984" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.32958984" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.32958984" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32958984" />
+      <window_info anchor="bottom" id="Services" order="8" />
+      <window_info anchor="bottom" id="Profiler" order="9" />
+      <window_info anchor="bottom" id="Build" order="9" />
+      <window_info anchor="right" id="Endpoints" order="0" weight="0.32974815" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.32974815" />
+      <window_info anchor="right" id="Database" order="2" weight="0.32974815" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" />
+      <window_info anchor="right" id="Notifications" order="3" weight="0.25" />
+      <unified_weights bottom="0.32958984" left="0.25" right="0.32974815" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Database</value>
+      <value>AIAssistant</value>
+      <value>Endpoints</value>
+      <value>Terminal</value>
+      <value>Version Control</value>
+      <value>TODO</value>
+      <value>Problems View</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="237" key="#Run/Debug_Configuration_Templates" timestamp="1708193937001">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="237" key="#Run/Debug_Configuration_Templates/0.0.1920.1080/1920.0.1280.1024@0.0.1920.1080" timestamp="1708193937001" />
+    <state x="560" y="237" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1708193966494">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="237" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1280.1024@0.0.1920.1080" timestamp="1708193966494" />
+    <state x="748" y="334" key="FileChooserDialogImpl" timestamp="1708194123925">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="748" y="334" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1280.1024@0.0.1920.1080" timestamp="1708194123925" />
+    <state x="400" y="213" key="SettingsEditor" timestamp="1708193818918">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="400" y="213" key="SettingsEditor/0.0.1920.1080/1920.0.1280.1024@0.0.1920.1080" timestamp="1708193818918" />
+    <state x="479" y="124" key="new project wizard" timestamp="1708194150645">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="479" y="124" key="new project wizard/0.0.1920.1080/1920.0.1280.1024@0.0.1920.1080" timestamp="1708194150645" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/edu/kit/kastel/CodeFight/model/AI/ai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/kit/kastel/CodeFight/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

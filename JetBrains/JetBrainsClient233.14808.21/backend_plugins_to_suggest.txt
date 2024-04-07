@@ -1,0 +1,3 @@
+CheckStyle-IDEA
+com.github.copilot
+com.jetbrains.space
