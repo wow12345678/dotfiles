@@ -106,7 +106,7 @@ export NNN_ARCHIVE="\\.(7z|bz2|gz|tar|tgz|zip)$"
 export NNN_FCOLORS="0404040000000600010F0F02"
 # aliases
 alias cat='bat'
-alias yolo='git commit -m "$(curl -https://whatthecommit.com/index.txt)"'
+alias yolo='git commit -m "$(curl -s https://whatthecommit.com/index.txt)"'
 
 # fzf configuration
 export FZF_DEFAULT_COMMAND='fd -HI'
