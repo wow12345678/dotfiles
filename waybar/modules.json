@@ -46,6 +46,17 @@
         "format": "{icon}   {volume}%",
         "on-click": "qpwgraph",
         "format-icons": ["", "", ""]
+    },
+
+    "battery": {
+        "format": "{icon}{capacity}%",
+        "format-charging": "󱐋 {capacity}%",
+        "format-plugged": "󱰻 {capacity}%",
+        "states": {"critical": 15},
+        "tooltip-format": "Time to charge: {time}",
+        "format-icons": [
+            "󰂎","󰁻","󰁽","󰁿","󰂁"
+        ]
     }
 
 

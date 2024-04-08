@@ -16,7 +16,6 @@
 
     //Modules Left
     "modules-left": [
-        "wlr/workspaces",
         "hyprland/workspaces"
     ],
 
@@ -26,6 +25,7 @@
         "cpu",
         "memory",
         "disk",
+        "battery",
         "custom/exit",
         "clock"
     ]
