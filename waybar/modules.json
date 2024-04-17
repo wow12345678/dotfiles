@@ -1,0 +1,52 @@
+{
+    "hyprland/workspaces": {
+        "format": "{name}",
+        "on-scroll-up": "hyprctl dispatch workspace e+1",
+        "on-scroll-down": "hyprctl dispatch workspace e-1",
+        "show-special": false,
+        "ignore-workspaces": [
+            "(special:)?special:scratch_term"
+        ]
+    },
+
+    "wlr/workspaces": {
+        "format": "{name}",
+        "on-click": "activate"
+    },
+
+    "custom/exit": {
+        "format": "",
+        "on-click": "wlogout",
+        "tooltip": false
+    },
+
+    "clock": {
+        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+        "format-alt": "{:%d-%m-%Y}"
+    },
+
+    "cpu": {
+        "format": "C {usage}% {avg_frequency}GHz",
+        "on-click": "alacritty -e btop"
+    },
+
+    "memory": {
+        "format": "/ M {}% ",
+        "on-click": "alacritty -e htop"
+    },
+
+    "disk": {
+        "interval": 30,
+        "format": "/D {percentage_used}% ",
+        "path": "/",
+        "on-click": "alacritty -e htop"
+    },
+
+    "wireplumber": {
+        "format": "{icon}   {volume}%",
+        "on-click": "qpwgraph",
+        "format-icons": ["", "", ""]
+    }
+
+
+}
