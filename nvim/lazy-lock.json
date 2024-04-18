@@ -34,6 +34,7 @@
   "rustaceanvim": { "branch": "master", "commit": "3d3818a6e4f88e1ccf40088df0cc3f525e0cbdf8" },
   "telescope.nvim": { "branch": "master", "commit": "d00d9df48c00d8682c14c2b5da78bda7ef06b939" },
   "ui": { "branch": "v2.0", "commit": "7b3225264af17a9e0aff0b4fd2a0fac90b73db53" },
+  "undotree": { "branch": "master", "commit": "56c684a805fe948936cda0d1b19505b84ad7e065" },
   "vim-apm": { "branch": "master", "commit": "96d452bb97c7b147b87edf75b53d5d724fb4bf64" },
   "vim-be-good": { "branch": "master", "commit": "4fa57b7957715c91326fcead58c1fa898b9b3625" },
   "vimtex": { "branch": "master", "commit": "ac0a41b297a70c101df89bc9c8d43341ba00fd4f" },

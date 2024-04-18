@@ -148,6 +148,13 @@ local plugins = {
       require "custom.configs.harpoon"
     end,
   },
+  {
+    "mbbill/undotree",
+    lazy = false,
+    config = function()
+      vim.keymap.set("n", "<leader>u", vim.cmd.UndotreeToggle)
+    end,
+  },
   -- To make a plugin not be loaded
   -- {
   --   "NvChad/nvim-colorizer.lua",
