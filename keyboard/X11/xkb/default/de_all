@@ -1,0 +1,67 @@
+// Keyboard layouts for Germany.
+// /usr/share/X11/xkb/symbols/de
+
+default
+xkb_symbols "basic" {
+
+    name[Group1]="German_all";
+
+    key <TLDE>	{[dead_circumflex, degree,            U2032,          U2033 ]}; // ′ ″
+    key <AE01>	{ [         1,     exclam,  onesuperior,   exclamdown ]	};
+    key <AE02>	{ [         2,   quotedbl,  twosuperior,    oneeighth ] };
+    key <AE03>	{ [         3,    section,threesuperior,     sterling ] };
+    key <AE04>	{ [         4,     dollar,   onequarter,     currency ] };
+    key <AE05>	{ [         5,    percent,      onehalf, threeeighths ]	};
+    key <AE06>	{ [         6,  ampersand,      notsign,  fiveeighths ]	};
+    key <AE07>	{ [         7,      slash,    braceleft, seveneighths ]	};
+    key <AE08>	{ [         8,  parenleft,  bracketleft,    trademark ]	};
+    key <AE09>	{ [         9, parenright, bracketright,    plusminus ]	};
+    key <AE10>	{ [         0,      equal,   braceright,       degree ]	};
+    key <AE11>	{[     ssharp,   question,        backslash,   questiondown,    U1E9E ], type[group1]="FOUR_LEVEL_PLUS_LOCK" };
+    key <AE12>	{[ dead_acute, dead_grave,     dead_cedilla,    dead_ogonek ]};
+
+
+    key <AD01>	{ [         q,          Q,           at,  Greek_OMEGA ]	};
+    key <AD02>	{ [         w,          W,        U017F,      section ]	};
+    key <AD03>	{ [         e,          E,     EuroSign,         cent ]	};
+    key <AD04>	{ [         r,          R,    paragraph,   registered ]	};
+    key <AD05>	{ [         t,          T,       tslash,       Tslash ]	};
+    key <AD06>	{ [          z,          Z,        leftarrow,            yen ]};
+    key <AD07>	{ [         u,          U,    downarrow,      uparrow ]	};
+    key <AD08>	{ [         i,          I,   rightarrow,     idotless ]	};
+    key <AD09>	{ [         o,          O,       oslash,       Oslash ]	};
+    key <AD10>	{ [         p,          P,        thorn,        THORN ]	};
+    key <AD11>	{ [ udiaeresis, Udiaeresis,   dead_diaeresis, dead_abovering ]};
+    key <AD12>	{ [       plus,   asterisk,       asciitilde,         macron ]};
+    key <BKSL>	{[ numbersign, apostrophe, rightsinglequotemark, dead_breve ]};
+
+
+    key <AC01>	{ [         a,          A,           ae,           AE ]	};
+    key <AC02>	{[          s,          S,            U017F,          U1E9E ]}; // ſ ẞ
+    key <AC03>	{ [         d,          D,          eth,          ETH ]	};
+    key <AC04>	{ [         f,          F,      dstroke,  ordfeminine ]	};
+    key <AC05>	{ [         g,          G,          eng,          ENG ]	};
+    key <AC06>	{ [         h,          H,      hstroke,      Hstroke ]	};
+    key <AC07>	{[          j,          J,    dead_belowdot,  dead_abovedot ]};
+    key <AC08>	{ [         k,          K,          kra,    ampersand ]	};
+    key <AC09>	{ [         l,          L,      lstroke,      Lstroke ]	};
+    key <AC10>	{[ odiaeresis, Odiaeresis, dead_doubleacute,  dead_belowdot ]};
+    key <AC11>	{[ adiaeresis, Adiaeresis,  dead_circumflex,     dead_caron ]};
+
+
+    key <LSGT>	{[      less,     greater,            bar, dead_belowmacron ]};
+    key <AB01>	{[          y,          Y,   guillemotright,          U203A ]}; // » ›
+    key <AB02>	{[          x,          X,    guillemotleft,          U2039 ]}; // « ‹
+    key <AB03>	{ [         c,          C,         cent,    copyright ]	};
+    key <AB04>	{ [         v,          V,   doublelowquotemark, singlelowquotemark ]	};
+    key <AB05>	{ [         b,          B,  leftdoublequotemark, leftsinglequotemark ] };
+    key <AB06>	{ [         n,          N, rightdoublequotemark, rightsinglequotemark ]	};
+    key <AB07>	{ [         m,          M,           mu,    masculine ]	};
+    key <AB08>	{[      comma,  semicolon,   periodcentered,       multiply ]};
+    key <AB09>	{[     period,      colon,            U2026,       division ]}; // … ÷
+    key <AB10>	{[      minus, underscore,           endash,         emdash ]};
+
+
+    include "kpdl(comma)"
+    include "level3(ralt_switch)"
+};
