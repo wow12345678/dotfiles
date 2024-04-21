@@ -5,7 +5,8 @@
 - `/X11/xkb/rules` contains the adapted rules for the Ristome layout.
 
 # How to install (Reminder for myself)
-run `./add_layout.sh` 
+1. run `./create_backup.sh`
+2. run `./add_layout.sh`
 
 # Credit
 The Scripts and the repository structure is stolen from [here](https://github.com/berk-karaal/my-keyboard-layout).
