@@ -1,3 +1,7 @@
+[Added Associations]
+x-scheme-handler/mailto=userapp-Thunderbird-DAC0H2.desktop;
+x-scheme-handler/mid=userapp-Thunderbird-DAC0H2.desktop;
+
 [Default Applications]
 x-scheme-handler/mailto=userapp-Thunderbird-DAC0H2.desktop
 message/rfc822=userapp-Thunderbird-DAC0H2.desktop
@@ -7,8 +11,7 @@ x-scheme-handler/http=firefox.desktop
 x-scheme-handler/https=firefox.desktop
 x-scheme-handler/about=firefox.desktop
 x-scheme-handler/unknown=firefox.desktop
+application/json=firefox.desktop
+application/xml=firefox.desktop
+application/x-xpinstall=firefox.desktop
 application/pdf=okular.desktop
-
-[Added Associations]
-x-scheme-handler/mailto=userapp-Thunderbird-DAC0H2.desktop;
-x-scheme-handler/mid=userapp-Thunderbird-DAC0H2.desktop;

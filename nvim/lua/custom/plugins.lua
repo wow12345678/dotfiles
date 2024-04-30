@@ -49,6 +49,7 @@ local plugins = {
   {
     "lervag/vimtex",
     lazy = false,
+    config = function() end,
   },
   {
     "ThePrimeagen/vim-be-good",
