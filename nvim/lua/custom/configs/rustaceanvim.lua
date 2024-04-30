@@ -1,10 +1,13 @@
 vim.g.rustaceanvim = {
   server = {
-    on_attach = function(client, bufnr)
-      vim.lsp.inlay_hint.enable(true, 0)
+    on_attach = function()
+      vim.lsp.inlay_hint.enable(true, { 0 })
     end,
     default_settings = {
       ["rust-analyzer"] = {
+        diagnostics = {
+          enable = true,
+        },
         imports = {
           granularity = {
             group = "module",
@@ -12,9 +15,7 @@ vim.g.rustaceanvim = {
           prefix = "self",
         },
         cargo = {
-          buildScripts = {
-            enable = true,
-          },
+          allFeatures = true,
         },
         procMacro = {
           enable = true,

@@ -52,13 +52,14 @@ M.general = {
     --Rustaceanvim
     ["<leader>rs"] = { "<cmd>RustLsp ssr<CR>", "structural search replace" },
     ["<leader>rj"] = { "<cmd>RustLsp joinLines<CR>", "join Lines" },
-    ["<leader>rd"] = { "<cmd>RustLsp openDocs<CR>", "open Docs for symbol under cursor" },
+    ["<leader>rod"] = { "<cmd>RustLsp openDocs<CR>", "open Docs for symbol under cursor" },
     ["<leader>rc"] = { "<cmd>RustLsp openCargo<CR>", "open Cargo config" },
     ["<leader>re"] = { "<cmd>RustLsp explainError<CR>", "explains Error" },
     ["<leader>rr"] = { "<cmd>RustLsp runnables<CR>", "runnables" },
     ["<leader>rt"] = { "<cmd>RustLsp testables<CR>", "testables" },
     ["<leader>rm"] = { "<cmd>RustLsp expandMacro<CR>", "expand Macro" },
     ["<leader>ra"] = { "<cmd>RustLsp codeAction<CR>", "code Actions" },
+    ["<leader>rd"] = { "<cmd>RustLsp renderDiagnostic<CR>", "render Diagnostics" },
   },
   v = {
     [">"] = { ">gv", "indent" },
