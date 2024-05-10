@@ -4,7 +4,7 @@ local config = wezterm.config_builder()
 config.color_scheme = "3024 (dark) (terminal.sexy)"
 
 config.default_prog = { "/usr/bin/zsh" }
-config.font = wezterm.font("Hack Nerd Font Mono")
+config.font = wezterm.font("EnvyCodeR Nerd Font")
 
 config.use_fancy_tab_bar = false
 config.tab_bar_at_bottom = true
