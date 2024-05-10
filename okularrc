@@ -21,26 +21,26 @@ ToolBarsMovable=Disabled
 2 screens: Window-Maximized=true
 
 [Recent Files]
-File1[$e]=/mnt/big_storage/Vault/uni/Lineare Algebra/Materialien zur Vorlesung/Skript.pdf
-File10[$e]=$HOME/Documents/LAblattaufgabe/document.pdf
-File2[$e]=/mnt/big_storage/Vault/uni/Lineare Algebra/Materialien zur Übung/Hausübungen/Blatt_14.pdf
-File3[$e]=/mnt/big_storage/Vault/uni/Lineare Algebra/Materialien zur Übung/Hausübungen/Blatt_13.pdf
-File4[$e]=/mnt/big_storage/Vault/uni/Lineare Algebra/Materialien zur Übung/Hausübungen/Blatt_12.pdf
-File5[$e]=/mnt/big_storage/Vault/uni/Lineare Algebra/Materialien zur Übung/Lösungsskizzen zu den Hausübungen/Blatt_10_Lsg.pdf
-File6[$e]=/mnt/big_storage/Vault/uni/Lineare Algebra/Materialien zur Übung/Lösungsskizzen zu den Hausübungen/Blatt_11_Lsg.pdf
-File7[$e]=/mnt/big_storage/Vault/uni/Lineare Algebra/Materialien zur Übung/Lösungsskizzen zu den Hausübungen/Blatt_12_Lsg.pdf
-File8[$e]=/mnt/big_storage/Vault/uni/Lineare Algebra/Materialien zur Übung/Lösungsskizzen zu den Hausübungen/Blatt_13_Lsg.pdf
-File9[$e]=/mnt/big_storage/Vault/uni/Lineare Algebra/Materialien zur Übung/Lösungsskizzen zu den Hausübungen/Blatt_14_Lsg.pdf
-Name1[$e]=Skript.pdf
-Name10[$e]=document.pdf
-Name2[$e]=Blatt_14.pdf
-Name3[$e]=Blatt_13.pdf
-Name4[$e]=Blatt_12.pdf
-Name5[$e]=Blatt_10_Lsg.pdf
-Name6[$e]=Blatt_11_Lsg.pdf
-Name7[$e]=Blatt_12_Lsg.pdf
-Name8[$e]=Blatt_13_Lsg.pdf
-Name9[$e]=Blatt_14_Lsg.pdf
+File1[$e]=/mnt/big_storage/Vault/uni/Lineare Algebra/Materialien zur Übung/Hausübungen/Blatt_12.pdf
+File10[$e]=$HOME/Downloads/Textdatei.png
+File2[$e]=/mnt/big_storage/Vault/uni/Lineare Algebra/Materialien zur Übung/Lösungsskizzen zu den Hausübungen/Blatt_10_Lsg.pdf
+File3[$e]=/mnt/big_storage/Vault/uni/Lineare Algebra/Materialien zur Übung/Lösungsskizzen zu den Hausübungen/Blatt_11_Lsg.pdf
+File4[$e]=/mnt/big_storage/Vault/uni/Lineare Algebra/Materialien zur Übung/Lösungsskizzen zu den Hausübungen/Blatt_12_Lsg.pdf
+File5[$e]=/mnt/big_storage/Vault/uni/Lineare Algebra/Materialien zur Übung/Lösungsskizzen zu den Hausübungen/Blatt_13_Lsg.pdf
+File6[$e]=/mnt/big_storage/Vault/uni/Lineare Algebra/Materialien zur Übung/Lösungsskizzen zu den Hausübungen/Blatt_14_Lsg.pdf
+File7[$e]=$HOME/Documents/LAblattaufgabe/document.pdf
+File8[$e]=$HOME/Documents/LAblattaufgaben/Blatt2Aufgabe2.pdf
+File9[$e]=$HOME/Downloads/softwaretechnik1blatt1aufgabe1.txt.html.css.svg.png.Lassen Sie bitte auch andere Dateiendungen zu. Das ist trotzdem nur eine Textdatei-1.pdf
+Name1[$e]=Blatt_12.pdf
+Name10[$e]=Textdatei.png
+Name2[$e]=Blatt_10_Lsg.pdf
+Name3[$e]=Blatt_11_Lsg.pdf
+Name4[$e]=Blatt_12_Lsg.pdf
+Name5[$e]=Blatt_13_Lsg.pdf
+Name6[$e]=Blatt_14_Lsg.pdf
+Name7[$e]=document.pdf
+Name8[$e]=Blatt2Aufgabe2.pdf
+Name9[$e]=softwaretechnik1blatt1aufgabe1.txt.html.css.svg.png.Lassen Sie bitte auch andere Dateiendungen zu. Das ist trotzdem nur eine Textdatei-1.pdf
 
 [UiSettings]
 ColorScheme=
