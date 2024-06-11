@@ -6,7 +6,7 @@ local highlights = require "custom.highlights"
 
 M.ui = {
   theme = "decay",
-  theme_toggle = { "decay", "one_light" },
+  theme_toggle = { "decay" },
 
   hl_override = highlights.override,
   hl_add = highlights.add,

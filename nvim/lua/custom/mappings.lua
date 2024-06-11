@@ -60,9 +60,20 @@ M.general = {
     ["<leader>rm"] = { "<cmd>RustLsp expandMacro<CR>", "expand Macro" },
     ["<leader>ra"] = { "<cmd>RustLsp codeAction<CR>", "code Actions" },
     ["<leader>rd"] = { "<cmd>RustLsp renderDiagnostic<CR>", "render Diagnostics" },
+
+    --move
+    ["<S-M-j>"] = { ":MoveLine(1)<CR>" },
+    ["<S-M-k>"] = { ":MoveLine(-1)<CR>" },
+    ["<S-M-h>"] = { ":MoveHChar(-1)<CR>" },
+    ["<S-M-l>"] = { ":MoveHChar(1)<CR>" },
   },
   v = {
     [">"] = { ">gv", "indent" },
+
+    ["<S-M-j>"] = { ":MoveBlock(1)<CR>" },
+    ["<S-M-k>"] = { ":MoveBlock(-1)<CR>" },
+    ["<S-M-h>"] = { ":MoveHBlock(-1)<CR>" },
+    ["<S-M-l>"] = { ":MoveHBlock(1)<CR>" },
   },
 }
 

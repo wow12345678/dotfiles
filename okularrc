@@ -21,26 +21,26 @@ ToolBarsMovable=Disabled
 2 screens: Window-Maximized=true
 
 [Recent Files]
-File1[$e]=/mnt/big_storage/Vault/uni/Lineare Algebra/Materialien zur Übung/Hausübungen/Blatt_12.pdf
-File10[$e]=$HOME/Downloads/Textdatei.png
-File2[$e]=/mnt/big_storage/Vault/uni/Lineare Algebra/Materialien zur Übung/Lösungsskizzen zu den Hausübungen/Blatt_10_Lsg.pdf
-File3[$e]=/mnt/big_storage/Vault/uni/Lineare Algebra/Materialien zur Übung/Lösungsskizzen zu den Hausübungen/Blatt_11_Lsg.pdf
-File4[$e]=/mnt/big_storage/Vault/uni/Lineare Algebra/Materialien zur Übung/Lösungsskizzen zu den Hausübungen/Blatt_12_Lsg.pdf
-File5[$e]=/mnt/big_storage/Vault/uni/Lineare Algebra/Materialien zur Übung/Lösungsskizzen zu den Hausübungen/Blatt_13_Lsg.pdf
-File6[$e]=/mnt/big_storage/Vault/uni/Lineare Algebra/Materialien zur Übung/Lösungsskizzen zu den Hausübungen/Blatt_14_Lsg.pdf
-File7[$e]=$HOME/Documents/LAblattaufgabe/document.pdf
-File8[$e]=$HOME/Documents/LAblattaufgaben/Blatt2Aufgabe2.pdf
-File9[$e]=$HOME/Downloads/softwaretechnik1blatt1aufgabe1.txt.html.css.svg.png.Lassen Sie bitte auch andere Dateiendungen zu. Das ist trotzdem nur eine Textdatei-1.pdf
-Name1[$e]=Blatt_12.pdf
-Name10[$e]=Textdatei.png
-Name2[$e]=Blatt_10_Lsg.pdf
-Name3[$e]=Blatt_11_Lsg.pdf
-Name4[$e]=Blatt_12_Lsg.pdf
-Name5[$e]=Blatt_13_Lsg.pdf
-Name6[$e]=Blatt_14_Lsg.pdf
-Name7[$e]=document.pdf
-Name8[$e]=Blatt2Aufgabe2.pdf
-Name9[$e]=softwaretechnik1blatt1aufgabe1.txt.html.css.svg.png.Lassen Sie bitte auch andere Dateiendungen zu. Das ist trotzdem nur eine Textdatei-1.pdf
+File1[$e]=$HOME/Documents/LAblattaufgaben/Blatt2Aufgabe2.pdf
+File10[$e]=$HOME/Documents/funIntegral.pdf
+File2[$e]=$HOME/Downloads/softwaretechnik1blatt1aufgabe1.txt.html.css.svg.png.Lassen Sie bitte auch andere Dateiendungen zu. Das ist trotzdem nur eine Textdatei-1.pdf
+File3[$e]=$HOME/Downloads/Textdatei.png
+File4[$e]=$HOME/Downloads/978-981-10-1789-6.pdf
+File5[$e]=$HOME/Downloads/Analysis-II-Hundertmark-KIT/Skript.pdf
+File6[$e]=$HOME/Downloads/Analysis 1 Hildebrandt.pdf
+File7[$e]=$HOME/Documents/LAblattaufgaben/DiagramBilinearformen.pdf
+File8[$e]=$HOME/Documents/LAblattaufgaben/Blatt4Aufgabe3.pdf
+File9[$e]=$HOME/Documents/LAblattaufgaben/Blatt1Aufgabe2.dvi
+Name1[$e]=Blatt2Aufgabe2.pdf
+Name10[$e]=funIntegral.pdf
+Name2[$e]=softwaretechnik1blatt1aufgabe1.txt.html.css.svg.png.Lassen Sie bitte auch andere Dateiendungen zu. Das ist trotzdem nur eine Textdatei-1.pdf
+Name3[$e]=Textdatei.png
+Name4[$e]=978-981-10-1789-6.pdf
+Name5[$e]=Skript.pdf
+Name6[$e]=Analysis 1 Hildebrandt.pdf
+Name7[$e]=DiagramBilinearformen.pdf
+Name8[$e]=Blatt4Aufgabe3.pdf
+Name9[$e]=Blatt1Aufgabe2.dvi
 
 [UiSettings]
 ColorScheme=

@@ -29,7 +29,6 @@ local plugins = {
     opts = overrides.nvimtree,
   },
 
-  -- Install a plugin
   {
     "max397574/better-escape.nvim",
     event = "InsertEnter",
@@ -169,6 +168,13 @@ local plugins = {
   --   end,
   --   lazy = false,
   -- }
+  {
+    "fedepujol/move.nvim",
+    config = function()
+      require "custom.configs.move"
+    end,
+    lazy = false,
+  },
 }
 
 return plugins
