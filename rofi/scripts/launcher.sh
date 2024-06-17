@@ -18,4 +18,4 @@ theme='style-6'
 rofi \
 	-show drun \
 	-theme ${dir}/${theme}.rasi \
-	-run-command './rofi-web-search.sh "{cmd}"'
+	-run-command '/home/fw/.config/rofi/scripts/rofi-web-search.sh "{cmd}"'
