@@ -12,6 +12,8 @@ M.ui = {
   hl_add = highlights.add,
 }
 
+vim.keymap.set("c", "<F2>", "\\(.*\\)")
+
 M.plugins = "custom.plugins"
 
 -- check core.mappings for table structure
