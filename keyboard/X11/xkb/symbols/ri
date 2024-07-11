@@ -35,6 +35,7 @@ xkb_symbols "Ristome" {
     key <AD12>	{ [       plus,   asterisk,       asciitilde,         macron ]};
 
 
+    key <CAPS>  { [ Escape]}
     key <AC01>	{ [          z,          Z,        leftarrow,            yen ]	};
     key <AC02>	{ [         l,          L,      lstroke,      Lstroke ]}; // ſ ẞ
     key <AC03>	{ [         a,          A,           ae,           AE ]	};
