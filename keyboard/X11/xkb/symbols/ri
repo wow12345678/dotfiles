@@ -1,8 +1,9 @@
 // Keyboard layouts for Germany.
 
 default
-xkb_symbols "basic" {
+xkb_symbols "Ristome" {
 
+    include "de(basic)"
     name[Group1]="Ristome";
 
     key <TLDE>	{[dead_circumflex, degree,            U2032,          U2033 ]}; // ′ ″
@@ -59,7 +60,6 @@ xkb_symbols "basic" {
     key <AB08>	{ [     ssharp,   question,        backslash,   questiondown,    U0E9E ], type[group1]="FOUR_LEVEL_PLUS_LOCK"};
     key <AB09>	{ [      comma,  semicolon,   periodcentered,       multiply ]}; // … ÷
     key <AB10>	{ [     period,      colon,            U2026,       division ]};
-
 
     include "kpdl(comma)"
     include "level3(ralt_switch)"
