@@ -1,9 +1,9 @@
 // Keyboard layouts for Germany.
 
 default
-xkb_symbols "Ristome" {
+xkb_symbols "ristome_layout" {
 
-    include "de(basic)"
+    include "de(basic)"
     name[Group1]="Ristome";
 
     key <TLDE>	{[dead_circumflex, degree,            U2032,          U2033 ]}; // ′ ″
