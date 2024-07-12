@@ -8,7 +8,7 @@ shouldShowToolBarComingFromFullScreen=true
 
 [General]
 LockSidebar=true
-ShowSidebar=true
+ShowSidebar=false
 
 [MainWindow]
 1280x1024 screen: Window-Maximized=true
@@ -21,26 +21,26 @@ ToolBarsMovable=Disabled
 2 screens: Window-Maximized=true
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/Matrix Analysis -- Roger A_ Horn, Charles R_ Johnson -- 2nd, 2013 -- Cambridge University Press -- 9780521839402 -- 2b5b9d91d2257e9497120d4eda1f5c74 -- Anna’s Archive.pdf
-File10[$e]=$HOME/Downloads/Analysis-II-Hundertmark-KIT/Skript.pdf
-File2[$e]=$HOME/Downloads/3-540-29285-3.pdf
-File3[$e]=$HOME/Downloads/978-3-662-56752-4-1.pdf
-File4[$e]=$HOME/Downloads/978-3-662-56752-4.pdf
-File5[$e]=$HOME/Downloads/978-3-7643-7756-4.pdf
-File6[$e]=$HOME/Downloads/978-981-10-1789-6.pdf
-File7[$e]=$HOME/Downloads/npc_problems_list.pdf
-File8[$e]=$HOME/Documents/Analysis 2 Forster.pdf
-File9[$e]=$HOME/Downloads/Analysis 2 Forster.pdf
-Name1[$e]=Matrix Analysis -- Roger A_ Horn, Charles R_ Johnson -- 2nd, 2013 -- Cambridge University Press -- 9780521839402 -- 2b5b9d91d2257e9497120d4eda1f5c74 -- Anna’s Archive.pdf
-Name10[$e]=Skript.pdf
-Name2[$e]=3-540-29285-3.pdf
-Name3[$e]=978-3-662-56752-4-1.pdf
-Name4[$e]=978-3-662-56752-4.pdf
-Name5[$e]=978-3-7643-7756-4.pdf
-Name6[$e]=978-981-10-1789-6.pdf
-Name7[$e]=npc_problems_list.pdf
-Name8[$e]=Analysis 2 Forster.pdf
-Name9[$e]=Analysis 2 Forster.pdf
+File1[$e]=$HOME/Downloads/978-981-10-1789-6.pdf
+File10[$e]=$HOME/Documents/latex_shit/animat2.pdf
+File2[$e]=$HOME/Downloads/npc_problems_list.pdf
+File3[$e]=$HOME/Documents/Analysis 2 Forster.pdf
+File4[$e]=$HOME/Downloads/Analysis 2 Forster.pdf
+File5[$e]=$HOME/Downloads/Analysis-II-Hundertmark-KIT/Skript.pdf
+File6[$e]=$HOME/Downloads/blatt-1-aufgaben/blatt-1-aufgaben.pdf
+File7[$e]=$HOME/Documents/latex_shit/exa7.pdf
+File8[$e]=$HOME/Documents/latex_shit/test-pics.pdf
+File9[$e]=$HOME/Documents/latex_shit/test.pdf
+Name1[$e]=978-981-10-1789-6.pdf
+Name10[$e]=animat2.pdf
+Name2[$e]=npc_problems_list.pdf
+Name3[$e]=Analysis 2 Forster.pdf
+Name4[$e]=Analysis 2 Forster.pdf
+Name5[$e]=Skript.pdf
+Name6[$e]=blatt-1-aufgaben.pdf
+Name7[$e]=exa7.pdf
+Name8[$e]=test-pics.pdf
+Name9[$e]=test.pdf
 
 [UiSettings]
 ColorScheme=

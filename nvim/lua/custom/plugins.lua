@@ -48,7 +48,10 @@ local plugins = {
   {
     "lervag/vimtex",
     lazy = false,
-    config = function() end,
+    config = function()
+      vim.g.vimtex_view_general_viewer = "okular"
+      vim.g.vimtex_view_general_options = "--unique file:@pdf#src:@line@tex"
+    end,
   },
   {
     "ThePrimeagen/vim-be-good",
@@ -160,20 +163,28 @@ local plugins = {
   --   "NvChad/nvim-colorizer.lua",
   --   enabled = false
   -- },
+  --
   -- TODO (doesn't work yet)
-  -- {
-  --   "mfussenegger/nvim-jdtls",
-  --   config = function()
-  --     require "custom.configs.nvim-jdtls"
-  --   end,
-  --   lazy = false,
-  -- }
+  {
+    "mfussenegger/nvim-jdtls",
+    config = function()
+      require "custom.configs.nvim-jdtls"
+    end,
+    lazy = false,
+  },
   {
     "fedepujol/move.nvim",
     config = function()
       require "custom.configs.move"
     end,
     lazy = false,
+  },
+  {
+    "saecki/crates.nvim",
+    event = { "BufRead Cargo.toml" },
+    config = function()
+      require "custom.configs.crates"
+    end,
   },
 }
 

@@ -1,7 +1,7 @@
--- local nvim_jdtls = require("jdtls")
---
--- local config = {
---     cmd = {'~/.local/share/nvim/mason/packages/jdtls/jdtls'},
---     root_dir = vim.fs.dirname(vim.fs.find({'gradlew', '.git', 'mvnw'}, { upward = true })[1]),
--- }
--- nvim_jdtls.start_or_attach(config)
+local nvim_jdtls = require "jdtls"
+
+local config = {
+  cmd = { "/usr/bin/jdtls" },
+  root_dir = vim.fs.dirname(vim.fs.find({ "gradlew", ".git", "mvnw" }, { upward = true })[1]),
+}
+nvim_jdtls.start_or_attach(config)
