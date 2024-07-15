@@ -3765,6 +3765,12 @@
         </variant>
         <variant>
           <configItem>
+            <name>ristome_layout</name>
+            <description>German (Ristome)</description>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
             <name>dvorak</name>
             <description>German (Dvorak)</description>
           </configItem>
@@ -4246,7 +4252,7 @@
           <iso639Id>tdg</iso639Id>
           <iso639Id>tdh</iso639Id>
           <iso639Id>thl</iso639Id>
-          <iso639Id>thq</iso639Id>
+          <iso639Id>the</iso639Id>
           <iso639Id>thr</iso639Id>
           <iso639Id>tkt</iso639Id>
           <iso639Id>wbr</iso639Id>
@@ -6832,7 +6838,7 @@
           <iso3166Id>VN</iso3166Id>
         </countryList>
         <languageList>
-          <iso639Id>vie</iso639Id>
+          <iso639Id>via</iso639Id>
         </languageList>
       </configItem>
       <variantList>
