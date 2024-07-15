@@ -41,6 +41,7 @@ local plugins = {
     "stevearc/conform.nvim",
     --  for users those who want auto-save conform + lazyloading!
     event = "BufWritePre",
+    cmd = "ConformInfo",
     config = function()
       require "custom.configs.conform"
     end,
@@ -51,6 +52,8 @@ local plugins = {
     config = function()
       vim.g.vimtex_view_general_viewer = "okular"
       vim.g.vimtex_view_general_options = "--unique file:@pdf#src:@line@tex"
+      vim.g.vimtex_syntax_enabled = 0
+      vim.g.maplocalleader = " "
     end,
   },
   {

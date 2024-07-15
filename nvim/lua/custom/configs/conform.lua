@@ -16,7 +16,9 @@ local options = {
     java = { "clang_format" },
     sh = { "shfmt" },
     haskell = { "fourmolu" },
-    latex = { "latexindent" },
+    tex = { "latexindent" },
+
+    ["*"] = { "codespell" },
   },
 
   format_on_save = {

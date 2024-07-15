@@ -19,5 +19,8 @@ Places Icons Static Size=22
 MenuBar=Disabled
 ToolBarsMovable=Disabled
 
+[Search]
+Location=Everywhere
+
 [ViewPropertiesDialog]
 2 screens: Window-Maximized=true
