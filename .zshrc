@@ -76,6 +76,9 @@ source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
+#keybinds
+bindkey '^y' autosuggest-accept
+
 # export MANPATH="/usr/local/man:$MANPATH"
 
 # You may need to manually set your language environment
@@ -123,5 +126,6 @@ export FZF_CTRL_T_COMMAND="$FZF_DEFAULT_COMMAND"
 eval "$(zoxide init zsh)"
 eval "$(fzf --zsh)"
 export PATH="$PATH:/home/fw/.local/bin:/home/fw/.cargo/bin"
+eval "$(leetcode completions)"
 
 eval "$(atuin init zsh)"
