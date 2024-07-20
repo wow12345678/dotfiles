@@ -22,25 +22,25 @@ ToolBarsMovable=Disabled
 
 [Recent Files]
 File1[$e]=$HOME/Downloads/npc_problems_list.pdf
-File10[$e]=$HOME/Documents/EintrittskarteKonzert.pdf
-File2[$e]=$HOME/Documents/Analysis 2 Forster.pdf
-File3[$e]=$HOME/Downloads/Analysis 2 Forster.pdf
-File4[$e]=$HOME/Downloads/Analysis-II-Hundertmark-KIT/Skript.pdf
-File5[$e]=$HOME/Downloads/blatt-1-aufgaben/blatt-1-aufgaben.pdf
-File6[$e]=$HOME/Documents/latex_shit/exa7.pdf
-File7[$e]=$HOME/Documents/latex_shit/test-pics.pdf
-File8[$e]=$HOME/Documents/latex_shit/test.pdf
-File9[$e]=$HOME/Documents/latex_shit/animat2.pdf
+File10[$e]=$HOME/Documents/Analysis 2 Forster.pdf
+File2[$e]=$HOME/Downloads/Analysis-II-Hundertmark-KIT/Skript.pdf
+File3[$e]=$HOME/Downloads/blatt-1-aufgaben/blatt-1-aufgaben.pdf
+File4[$e]=$HOME/Documents/latex_shit/exa7.pdf
+File5[$e]=$HOME/Documents/latex_shit/test-pics.pdf
+File6[$e]=$HOME/Documents/latex_shit/test.pdf
+File7[$e]=$HOME/Documents/latex_shit/animat2.pdf
+File8[$e]=$HOME/Documents/EintrittskarteKonzert.pdf
+File9[$e]=$HOME/Downloads/Analysis 2 Forster.pdf
 Name1[$e]=npc_problems_list.pdf
-Name10[$e]=EintrittskarteKonzert.pdf
-Name2[$e]=Analysis 2 Forster.pdf
-Name3[$e]=Analysis 2 Forster.pdf
-Name4[$e]=Skript.pdf
-Name5[$e]=blatt-1-aufgaben.pdf
-Name6[$e]=exa7.pdf
-Name7[$e]=test-pics.pdf
-Name8[$e]=test.pdf
-Name9[$e]=animat2.pdf
+Name10[$e]=Analysis 2 Forster.pdf
+Name2[$e]=Skript.pdf
+Name3[$e]=blatt-1-aufgaben.pdf
+Name4[$e]=exa7.pdf
+Name5[$e]=test-pics.pdf
+Name6[$e]=test.pdf
+Name7[$e]=animat2.pdf
+Name8[$e]=EintrittskarteKonzert.pdf
+Name9[$e]=Analysis 2 Forster.pdf
 
 [UiSettings]
 ColorScheme=

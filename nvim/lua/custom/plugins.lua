@@ -50,10 +50,10 @@ local plugins = {
     "lervag/vimtex",
     lazy = false,
     config = function()
+      vim.g.maplocalleader = " "
       vim.g.vimtex_view_general_viewer = "okular"
       vim.g.vimtex_view_general_options = "--unique file:@pdf#src:@line@tex"
       vim.g.vimtex_syntax_enabled = 0
-      vim.g.maplocalleader = " "
     end,
   },
   {
@@ -170,10 +170,10 @@ local plugins = {
   -- TODO (doesn't work yet)
   {
     "mfussenegger/nvim-jdtls",
+    ft = { "java" },
     config = function()
       require "custom.configs.nvim-jdtls"
     end,
-    lazy = false,
   },
   {
     "fedepujol/move.nvim",

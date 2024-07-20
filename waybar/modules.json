@@ -46,7 +46,34 @@
         "format": "{icon}   {volume}%",
         "on-click": "qpwgraph",
         "format-icons": ["", "", ""]
+    },
+
+    "battery": {
+        "format": "{capacity}% {icon}",
+        "tooltip": true,
+        "format-icons": {
+            "charging": "",
+            "discharging": "",
+            "full": "",
+            "unknown": "",
+            "plugged": ""
+        },
+        "status": {
+            "charging": "charging",
+            "discharging": "discharging",
+            "full": "full",
+            "unknown": "unknown",
+            "plugged": "plugged"
+        },
+        "on-click": "alacritty -e upower -i /org/freedesktop/UPower/devices/battery_BAT0"
+    },
+
+    "network": {
+        "interface": "enp4s0",
+        "format-wifi": "{essid} ({signalStrength}%)",
+        "format-ethernet": " {ipaddr}",
+        "tooltip": true,
+        "format-disconnected": "Disconnected",
+        "on-click": "alacritty -e nmtui"
     }
-
-
 }

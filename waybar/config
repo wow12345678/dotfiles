@@ -16,11 +16,12 @@
 
     //Modules Left
     "modules-left": [
-        "wlr/workspaces"
+        "hyprland/workspaces"
     ],
 
     // Modules Right    
     "modules-right": [
+        "battery",
         "wireplumber",
         "cpu",
         "memory",
