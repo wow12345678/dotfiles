@@ -21,6 +21,7 @@
 
     // Modules Right    
     "modules-right": [
+        "network",
         "battery",
         "wireplumber",
         "cpu",
