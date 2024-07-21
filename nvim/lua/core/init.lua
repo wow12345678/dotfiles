@@ -61,9 +61,10 @@ local is_windows = vim.loop.os_uname().sysname == "Windows_NT"
 vim.env.PATH = vim.fn.stdpath "data" .. "/mason/bin" .. (is_windows and ";" or ":") .. vim.env.PATH
 
 -------------------------------------- autocmds ------------------------------------------
+local autocmd = vim.api.nvim_create_autocmd
 
 -- dont list quickfix buffers
-vim.api.nvim_create_autocmd("FileType", {
+autocmd("FileType", {
   pattern = "qf",
   callback = function()
     vim.opt_local.buflisted = false
@@ -71,7 +72,7 @@ vim.api.nvim_create_autocmd("FileType", {
 })
 
 -- reload some chadrc options on-save
-vim.api.nvim_create_autocmd("BufWritePost", {
+autocmd("BufWritePost", {
   pattern = vim.tbl_map(function(path)
     return vim.fs.normalize(vim.loop.fs_realpath(path))
   end, vim.fn.glob(vim.fn.stdpath "config" .. "/lua/custom/**/*.lua", true, true, true)),
@@ -90,6 +91,16 @@ vim.api.nvim_create_autocmd("BufWritePost", {
 
     vim.g.nvchad_theme = config.ui.theme
     vim.g.transparency = config.ui.transparency
+
+    -- statusline
+    require("plenary.reload").reload_module("nvchad.statusline." .. config.ui.statusline.theme)
+    vim.opt.statusline = "%!v:lua.require('nvchad.statusline." .. config.ui.statusline.theme .. "').run()"
+
+    -- tabufline
+    if config.ui.tabufline.enabled then
+      require("plenary.reload").reload_module "nvchad.tabufline.modules"
+      vim.opt.tabline = "%!v:lua.require('nvchad.tabufline.modules').run()"
+    end
 
     require("base46").load_all_highlights()
     -- vim.cmd("redraw!")
