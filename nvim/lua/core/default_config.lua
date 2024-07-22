@@ -18,7 +18,7 @@ M.ui = {
   -- https://github.com/NvChad/base46/tree/v2.0/lua/base46/extended_integrations
   extended_integrations = {}, -- these aren't compiled by default, ex: "alpha", "notify"
 
-  -- cmp themeing
+  -- cmp theming
   cmp = {
     icons = true,
     lspkind_text = true,
