@@ -189,6 +189,13 @@ local plugins = {
       require "custom.configs.crates"
     end,
   },
+  {
+    "ludovicchabant/vim-gutentags",
+    lazy = false,
+    config = function()
+      require "custom.configs.vim_gutentags"
+    end,
+  },
 }
 
 return plugins

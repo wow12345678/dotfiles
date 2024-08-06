@@ -8,7 +8,7 @@ shouldShowToolBarComingFromFullScreen=true
 
 [General]
 LockSidebar=true
-ShowSidebar=false
+ShowSidebar=true
 
 [MainWindow]
 1280x1024 screen: Window-Maximized=true
@@ -21,25 +21,25 @@ ToolBarsMovable=Disabled
 2 screens: Window-Maximized=true
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/npc_problems_list.pdf
-File10[$e]=$HOME/Documents/Analysis 2 Forster.pdf
-File2[$e]=$HOME/Downloads/Analysis-II-Hundertmark-KIT/Skript.pdf
-File3[$e]=$HOME/Downloads/blatt-1-aufgaben/blatt-1-aufgaben.pdf
-File4[$e]=$HOME/Documents/latex_shit/exa7.pdf
-File5[$e]=$HOME/Documents/latex_shit/test-pics.pdf
-File6[$e]=$HOME/Documents/latex_shit/test.pdf
-File7[$e]=$HOME/Documents/latex_shit/animat2.pdf
-File8[$e]=$HOME/Documents/EintrittskarteKonzert.pdf
+File1[$e]=$HOME/Downloads/Analysis-II-Hundertmark-KIT/Skript.pdf
+File10[$e]=$HOME/Downloads/Analysis 1 Forster.pdf
+File2[$e]=$HOME/Downloads/Analysis 2 forster übung.pdf
+File3[$e]=$HOME/Documents/Analysis/documentation.dvi
+File4[$e]=$HOME/Documents/Analysis/documentation.pdf
+File5[$e]=$HOME/Documents/Analysis/load.dvi
+File6[$e]=$HOME/Documents/Analysis/Zusammenfassung.pdf
+File7[$e]=$HOME/Documents/Analysis/alist.dvi
+File8[$e]=$HOME/Documents/Analysis/Zusammenfassung.dvi
 File9[$e]=$HOME/Downloads/Analysis 2 Forster.pdf
-Name1[$e]=npc_problems_list.pdf
-Name10[$e]=Analysis 2 Forster.pdf
-Name2[$e]=Skript.pdf
-Name3[$e]=blatt-1-aufgaben.pdf
-Name4[$e]=exa7.pdf
-Name5[$e]=test-pics.pdf
-Name6[$e]=test.pdf
-Name7[$e]=animat2.pdf
-Name8[$e]=EintrittskarteKonzert.pdf
+Name1[$e]=Skript.pdf
+Name10[$e]=Analysis 1 Forster.pdf
+Name2[$e]=Analysis 2 forster übung.pdf
+Name3[$e]=documentation.dvi
+Name4[$e]=documentation.pdf
+Name5[$e]=load.dvi
+Name6[$e]=Zusammenfassung.pdf
+Name7[$e]=alist.dvi
+Name8[$e]=Zusammenfassung.dvi
 Name9[$e]=Analysis 2 Forster.pdf
 
 [UiSettings]
